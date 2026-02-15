@@ -1,0 +1,21 @@
+Note:
+This is a fictional text-based mockup.
+NovaBrowser is not a real or interactive application.
+NovaBrowser v1.0
+Build: NB-1001
+Engine: NovaWeb Core
+
+(✖) New Tab
+(🔒 www.fakebrowser.com/home            ) 🔄  ⚙  (👤)
+
+--------------------------------------------------
+
+                 Search Anything
+        (                                   )
+
+        (▶)   (J)   (📧)   (💻)   (💬)
+
+--------------------------------------------------
+
+Status: Online
+Mode: Standard
