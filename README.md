@@ -1,4 +1,6 @@
 # Nova11CustomOS
+<img width="1218" height="540" alt="Untitled" src="https://github.com/user-attachments/assets/3b3c66a0-1225-4969-8bef-41c20f3ee145" />
+
 This is not a real operating system that can be installable.
 
 
